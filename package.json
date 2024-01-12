@@ -1,0 +1,13 @@
+{
+  "name": "npx-method-id",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "method-id": "method-id.js"
+  },
+  "dependencies": {
+    "web3": "^4.3.0"
+  },
+  "author": "@dongri",
+  "license": "MIT"
+}
