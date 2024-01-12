@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+'use strict';
 const Web3 = require('web3');
 
 const args = process.argv.slice(2);
